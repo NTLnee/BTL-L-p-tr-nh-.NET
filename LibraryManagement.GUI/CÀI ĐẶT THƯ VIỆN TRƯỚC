@@ -1,0 +1,3 @@
+# Cài cho GUI
+Install-Package Guna.UI2.WinForms -ProjectName LibraryManagement.GUI
+Install-Package LiveCharts.WinForms -ProjectName LibraryManagement.GUI
