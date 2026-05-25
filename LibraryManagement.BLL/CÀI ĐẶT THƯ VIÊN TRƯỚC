@@ -1,0 +1,2 @@
+# Cài cho BLL
+Install-Package BCrypt.Net-Next -ProjectName LibraryManagement.BLL
