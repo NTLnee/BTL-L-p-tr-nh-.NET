@@ -1,0 +1,3 @@
+# Cài cho DAL
+Install-Package Microsoft.Data.SqlClient -ProjectName LibraryManagement.DAL
+Install-Package Dapper -ProjectName LibraryManagement.DAL
